@@ -7,5 +7,6 @@ See ISRP Presentation for visualized version of the project.
 
 Acknowledgments:
 Bruno Pedroni {bpedroni@eng.ucsd.edu}
+
 Gert Cauwenberghs {gcauwenberghs@ucsd.edu}
 
