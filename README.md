@@ -21,7 +21,7 @@ UC San Diego Bioengineering Ph.D\
 bpedroni@eng.ucsd.edu
 #### **Gert Cauwenberghs**
 California Institute of Technology Ph.D\
-Professor at UC San Diego Bioengineering
+Professor at UC San Diego Bioengineering\
 gcauwenberghs@ucsd.edu
 
 ## Contact Info:
